@@ -1,5 +1,5 @@
 # Google_Hashcode_2020
-This Repository is a hybrid solution between greedy and genetic algorithm approach for google Hash code 2020 competition's qualification round. It also constitutes the final project for Combinatorial Optimization classes.
+This Repository is a hybrid solution between greedy and genetic algorithm approach for google Hash code 2020 competition's qualification round. It also constitutes the final project for Combinatorial Optimization classes. The provided pdf file is the final report showing the approaches taken when trying to solve the problem as well as the conclusions reached after solving the project.
 
 <b>Task</b> <br>
 Given a description of libraries and books available, plan which books to scan from

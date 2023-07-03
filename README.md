@@ -1,7 +1,7 @@
 # Google_Hashcode_2020
 This Repository is a hybrid solution between greedy and genetic algorithm approach for google Hash code 2020 competition's qualification round. It also constitutes the final project for Combinatorial Optimization classes.
 
-Task
+<b>Task</b> <br>
 Given a description of libraries and books available, plan which books to scan from
 which library to maximize the total score of all scanned books, taking into account that
 each library needs to be signed up before it can ship books.
